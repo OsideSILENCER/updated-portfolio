@@ -9,7 +9,7 @@ I learned that when it comes to HTML and CSS the possibilities are infifinite in
 
 The steps it took to install this portfolio was hours of fixing html and css and as you can see i still can't make the images folder connect ot the css folder. I will eventually get this down. 
 
-<<<<<<< HEAD
-=======
+
+
 ![thumbnail (1)](https://user-images.githubusercontent.com/101435334/163942437-c97ee837-682f-4ffb-b137-4e9988828fb0.png)
->>>>>>> 586d330abc38e1cde29e67652b7e1fbd8f803eaa
+
