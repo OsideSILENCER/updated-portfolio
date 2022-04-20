@@ -9,4 +9,3 @@ I learned that when it comes to HTML and CSS the possibilities are infifinite in
 
 The steps it took to install this portfolio was hours of fixing html and css and as you can see i still can't make the images folder connect ot the css folder. I will eventually get this down. 
 
-/2022-03-29.png
